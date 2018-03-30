@@ -1,0 +1,143 @@
+{
+  "more": false,
+  "response": [
+    {
+      "id": "1080351v",
+      "content_owners": [
+        {
+          "id": "256co"
+        }
+      ],
+      "created_at": "2015-09-14T08:48:54Z",
+      "updated_at": "2015-09-14T08:53:57Z",
+      "type": "trailer",
+      "duration": 64,
+      "number": 0,
+      "root_id": "1065716vr",
+      "origin": {
+        "language": "en"
+      },
+      "titles": {
+        "en": "Kyujong of SS501 to Show Chemistry With Moonbyul of MAMAMOO"
+      },
+      "titles_phonetic": {},
+      "titles_aka": {},
+      "descriptions": {
+        "en": ""
+      },
+      "subtitle_completions": {},
+      "container": {
+        "id": "24569c",
+        "type": "series",
+        "subtype": "normal",
+        "titles": {
+          "ja": "Showbiz Korea",
+          "en": "Showbiz Korea",
+          "es": "La Farándula de Corea"
+        },
+        "team_name": "",
+        "genres": [
+          "10g"
+        ],
+        "origin": {
+          "country": "kr",
+          "language": "en"
+        },
+        "url": {
+          "web": "https://www.viki.com/tv/24569c-showbiz-korea",
+          "api": "https://api.viki.io/v4/series/24569c.json"
+        },
+        "managers": [
+          {
+            "id": "512666u",
+            "username": "gmtn96",
+            "images": {
+              "avatar": {
+                "url": "https://0.viki.io/u/512666u/v4JiOGjhcL.jpg"
+              }
+            },
+            "url": {
+              "web": "https://www.viki.com/users/gmtn96",
+              "api": "https://api.viki.io/v4/users/512666u.json"
+            }
+          },
+          {
+            "id": "515242u",
+            "username": "sofiya399",
+            "images": {
+              "avatar": {
+                "url": "https://0.viki.io/u/515242u/x4L8lRV6vV.png"
+              }
+            },
+            "url": {
+              "web": "https://www.viki.com/users/sofiya399",
+              "api": "https://api.viki.io/v4/users/515242u.json"
+            }
+          }
+        ],
+        "images": {
+          "poster": {
+            "url": "https://6.viki.io/image/48a4f2639534400f8f7871c6b2e023f0.jpeg?x=b",
+            "source": "viki"
+          }
+        },
+        "review_stats": {
+          "average_rating": 8.84,
+          "count": 25
+        },
+        "planned_episodes": 1900
+      },
+      "hardsubs": [],
+      "hardsub_languages": [],
+      "source": "viki",
+      "images": {
+        "poster": {
+          "url": "https://6.viki.io/image/77d7a1a26d9342a8a5ea9c226e0f0dea.jpeg?x=b",
+          "source": "viki"
+        }
+      },
+      "likes": {
+        "count": 7
+      },
+      "flags": {
+        "licensed": true,
+        "hosted": true,
+        "on_air": true,
+        "embeddable": true,
+        "state": "normal",
+        "adult": false,
+        "hd": true,
+        "has_stream": true
+      },
+      "url": {
+        "api": "https://api.viki.io/v4/videos/1080351v.json",
+        "fb": "https://www.viki.com/videos/1080351v-kyujong-of-ss501-to-show-chemistry-with-moonbyul-of-mamamoo",
+        "web": "https://www.viki.com/videos/1080351v-kyujong-of-ss501-to-show-chemistry-with-moonbyul-of-mamamoo"
+      },
+      "embed": {
+        "iframe": {
+          "url": "https://www.viki.com/player/1080351v"
+        }
+      },
+      "rating": "G",
+      "parts": [
+        {
+          "id": "1080351v",
+          "part": 1,
+          "url": "https://api.viki.io/v4/videos/1080351v.json"
+        }
+      ],
+      "viki_air_time": 1442220836,
+      "credits_marker": 64,
+      "part_index": 0,
+      "author": "Arirang TV",
+      "author_url": "https://www.viki.com/networks/256co-arirang-tv",
+      "blocked": false,
+      "blocking": {
+        "geo": false,
+        "paywall": false,
+        "upcoming": false
+      }
+    }
+  ]
+}
