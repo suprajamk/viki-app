@@ -18,11 +18,14 @@ types as well. Can include or exclude whatever type is required.
 
 ## Steps to run:
 
-Download the project as a zip file. Extract and move into the project.
+Download the project.
 
 Run the following script:
 
+```
+cd viki-app-master
 ./clip_count.sh
+```
 
 This will build the project, run the unit tests and then run the required program to get the count of HD Clips.
 
